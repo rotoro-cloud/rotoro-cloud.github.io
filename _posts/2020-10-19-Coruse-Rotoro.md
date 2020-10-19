@@ -2,7 +2,7 @@
 layout: post
 title: Ок, rotoro!
 ---
-<script src="https://rotoro-cloud.github.io/jquery.min.js"></script>
+<script src="/jquery.min.js"></script>
 
 
 ##### Переозвучка
