@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Ок, пробуем!
+title: Не смотри меня, это тест
 ---
 
 ![_config.yml]({{ site.baseurl }}/images/config.png)
