@@ -1,21 +1,9 @@
 ---
 layout: post
-title: Ок, rotoro!
+title: Лабораторная #1, курс Kubernetes для самых маленьких
 ---
 <script src="/jquery.min.js"></script>
 
-
-##### Переозвучка
-
-<script src="https://fast.wistia.com/embed/medias/kkvk5mb740.jsonp" async></script><script src="https://fast.wistia.com/assets/external/E-v1.js" async></script><div class="wistia_responsive_padding" style="padding:56.25% 0 0 0;position:relative;"><div class="wistia_responsive_wrapper" style="height:100%;left:0;position:absolute;top:0;width:100%;"><div class="wistia_embed wistia_async_kkvk5mb740 videoFoam=true" style="height:100%;position:relative;width:100%"><div class="wistia_swatch" style="height:100%;left:0;opacity:0;overflow:hidden;position:absolute;top:0;transition:opacity 200ms;width:100%;"><img src="https://fast.wistia.com/embed/medias/kkvk5mb740/swatch" style="filter:blur(5px);height:100%;object-fit:contain;width:100%;" alt="" aria-hidden="true" onload="this.parentNode.style.opacity=1;" /></div></div></div></div>
-
-
-##### С новой презентахой
-
-
-<script src="https://fast.wistia.com/embed/medias/wp34o887ov.jsonp" async></script><script src="https://fast.wistia.com/assets/external/E-v1.js" async></script><div class="wistia_responsive_padding" style="padding:56.25% 0 0 0;position:relative;"><div class="wistia_responsive_wrapper" style="height:100%;left:0;position:absolute;top:0;width:100%;"><div class="wistia_embed wistia_async_wp34o887ov videoFoam=true" style="height:100%;position:relative;width:100%"><div class="wistia_swatch" style="height:100%;left:0;opacity:0;overflow:hidden;position:absolute;top:0;transition:opacity 200ms;width:100%;"><img src="https://fast.wistia.com/embed/medias/wp34o887ov/swatch" style="filter:blur(5px);height:100%;object-fit:contain;width:100%;" alt="" aria-hidden="true" onload="this.parentNode.style.opacity=1;" /></div></div></div></div>
-
-##### Ссылка на лабу
 
 <div>
     <div class="attachment-data"></div>
@@ -65,7 +53,7 @@ title: Ок, rotoro!
         
     }
     
-    var div_button_source_code = '<div id="start-lab-button" style="text-align: center; margin-top: 200px;"><a class="btn btn-md btn-primary" onclick="startLab()" >Запуск упражнения</a><br><br><a href="https://support.rotoro.cloud/troubleshooting-labs" target="_blank">Если возникли проблемы, смотри здесь</a></div>';
+    var div_button_source_code = '<div id="start-lab-button" style="text-align: center; margin-top: 200px;"><a class="btn btn-md btn-primary" onclick="startLab()" >Запуск упражнения</a><br><br><a href="https://rotoro.cloud/troubleshooting-labs" target="_blank">Если возникли проблемы, смотри здесь</a></div>';
     
     $(scenario_div_name).append(div_button_source_code);  
 
