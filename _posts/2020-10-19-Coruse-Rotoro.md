@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Лабораторная #1, курс Kubernetes для самых маленьких
+title: Лабораторная №1, курс Kubernetes для самых маленьких
 ---
 <script src="/jquery.min.js"></script>
 
