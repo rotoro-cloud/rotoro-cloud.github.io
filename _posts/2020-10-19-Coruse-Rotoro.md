@@ -26,7 +26,7 @@ title: Лабораторная №1, курс Kubernetes для самых ма
             data_katacoda_command="export SCENARIO_NAME=" + lab_name + ";";
         }
         
-        var div_source_code = '<div id="katacoda-scenario-1" data-katacoda-command="' + data_katacoda_command + '" data-katacoda-hideintro="false" data-katacoda-id="rotoro-cloud/' + scenario_name + '" data-katacoda-externalcss="https://res.cloudinary.com/cloudusthad/raw/upload/v1571161480/custom.css" data-katacoda-color="004d7f" style="height: 90vh;">';
+        var div_source_code = '<div id="katacoda-scenario-1" data-katacoda-command="' + data_katacoda_command + '" data-katacoda-hideintro="false" data-katacoda-id="rotoro-cloud/' + scenario_name + '" data-katacoda-externalcss="https://raw.githubusercontent.com/rotoro-cloud/rotoro-cloud.github.io/master/labEnv.css" data-katacoda-color="004d7f" style="height: 90vh;">';
         $(scenario_div_name).append(div_source_code);    
         var embed_script = document.createElement('script');
         embed_script.setAttribute('src','https://katacoda.com/embed.js?cache=rt');
