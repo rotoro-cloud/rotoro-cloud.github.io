@@ -31,7 +31,7 @@ tr.head
 |app01|172.15.236.101|app01.cloud.rotoro.corp|Сервер приложений №1|mercury|hermes|
 |app02|172.15.236.102|app02.cloud.rotoro.corp|Сервер приложений №2|venus|aphrodite|
 |app03|172.15.236.103|app03.cloud.rotoro.corp|Сервер приложений №3|earth|gaia|
-|st01|172.15.236.10|st01.cloud.rotoro.corp|Сервер хранения|jupiter|zeus|
+|str01|172.15.236.10|str01.cloud.rotoro.corp|Сервер хранения|jupiter|zeus|
 |bu01|172.15.236.20|bu01.cloud.rotoro.corp|Сервер резервного копирования|neptune|poseidon|
 |ci01|172.15.236.40|ml01.cloud.rotoro.corp|CI/CD сервер|uranus|grandpa|
 |ml01|172.15.236.50|ml01.cloud.rotoro.corp|Почтовый сервер|pluto|hades|
@@ -42,27 +42,40 @@ tr.head
 <table class="mytable">
     <tbody valign="middle">
         <tr class="head">
-            <td>title</td>
-            <td>title</td>
-            <td>title</td>
+            <td>Назначение</td><td>Имя хоста</td><td>IP адрес</td><td>FQDN</td><td>User</td><td>Pass</td>
         </tr>
         <tr>
-            <td>content</td>
-            <td>content</td>
-            <td>content</td>
+            <td>controller</td><td>Динамический</td><td>controller.cloud.rotoro.corp</td><td>Джампхост для управления</td><td>moon</td><td>selena</td>
         </tr>
         <tr>
-            <td>content</td>
-            <td>content</td>
-            <td>content</td>
+            <td>db01</td><td>172.15.235.10</td><td>db01.cloud.rotoro.corp</td><td>Сервер базы данных</td><td>saturn</td><td>cronos</td>
+        </tr>
+        <tr>
+            <td>lb01</td><td>172.15.237.10</td><td>lb01.cloud.rotoro.corp</td><td>Джампхост для управления</td><td>moon</td><td>selena</td>
+        </tr>
+        <tr>
+            <td>app01</td><td>172.15.236.101</td><td>app01.cloud.rotoro.corp</td><td>Джампхост для управления</td><td>moon</td><td>selena</td>
+        </tr>
+        <tr>
+            <td>app02</td><td>172.15.236.102</td><td>app02.cloud.rotoro.corp</td><td>Джампхост для управления</td><td>moon</td><td>selena</td>
+        </tr>
+        <tr>
+            <td>app03</td><td>172.15.236.103</td><td>app03.cloud.rotoro.corp</td><td>Джампхост для управления</td><td>moon</td><td>selena</td>
+        </tr>
+        <tr>
+            <td>str01</td><td>172.15.236.10</td><td>str01.cloud.rotoro.corp</td><td>Джампхост для управления</td><td>moon</td><td>selena</td>
+        </tr>
+        <tr>
+            <td>bu01</td><td>172.15.236.20</td><td>bu01.cloud.rotoro.corp</td><td>Джампхост для управления</td><td>moon</td><td>selena</td>
+        </tr>
+        <tr>
+            <td>cicd01</td><td>172.15.236.30</td><td>cicd01.cloud.rotoro.corp</td><td>Джампхост для управления</td><td>moon</td><td>selena</td>
+        </tr>
+        <tr>
+            <td>mail01</td><td>172.15.236.40</td><td>mail01.cloud.rotoro.corp</td><td>Джампхост для управления</td><td>moon</td><td>selena</td>
+        </tr>
+        <tr>
+            <td>mon01</td><td>172.15.236.50</td><td>mon01.cloud.rotoro.corp</td><td>Джампхост для управления</td><td>moon</td><td>selena</td>
         </tr>
     </tbody>
-</table>
-
-
-<table align="center">
-  <tr><th align="center">Header A</th><th align="center">Header B</th><th align="center">Header C</th></tr>
-  <tr><td>Content a1</td><td>Content b1</td><td>Content c1</td></tr>
-  <tr><td>Content a2</td><td>Content b2</td><td>Content c2</td></tr>
-  <tr><td>Content a3</td><td>Content b3</td><td>Content c3</td></tr>
 </table>
