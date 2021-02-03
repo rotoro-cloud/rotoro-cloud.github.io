@@ -45,37 +45,37 @@ tr.head
             <td>Назначение</td><td>Имя хоста</td><td>IP адрес</td><td>FQDN</td><td>User</td><td>Pass</td>
         </tr>
         <tr>
-            <td>controller</td><td>Динамический</td><td>controller.cloud.rotoro.corp</td><td>Джампхост для управления</td><td>moon</td><td>selena</td>
+            <td>Джампхост для управления</td><td>controller</td><td>Динамический</td><td>controller.cloud.rotoro.corp</td><td>moon</td><td>selena</td>
         </tr>
         <tr>
-            <td>db01</td><td>172.15.235.10</td><td>db01.cloud.rotoro.corp</td><td>Сервер базы данных</td><td>saturn</td><td>cronos</td>
+            <td>Сервер базы данных</td><td>db01</td><td>172.15.235.10</td><td>db01.cloud.rotoro.corp</td><td>saturn</td><td>cronos</td>
         </tr>
         <tr>
-            <td>lb01</td><td>172.15.237.10</td><td>lb01.cloud.rotoro.corp</td><td>Джампхост для управления</td><td>moon</td><td>selena</td>
+            <td>Балансировщик нагрузки</td><td>lb01</td><td>172.15.237.10</td><td>lb01.cloud.rotoro.corp</td><td>mars</td><td>ares</td>
         </tr>
         <tr>
-            <td>app01</td><td>172.15.236.101</td><td>app01.cloud.rotoro.corp</td><td>Джампхост для управления</td><td>moon</td><td>selena</td>
+            <td>Сервер приложений №1</td><td>app01</td><td>172.15.236.101</td><td>app01.cloud.rotoro.corp</td><td>mercury</td><td>hermes</td>
         </tr>
         <tr>
-            <td>app02</td><td>172.15.236.102</td><td>app02.cloud.rotoro.corp</td><td>Джампхост для управления</td><td>moon</td><td>selena</td>
+            <td>Сервер приложений №2</td><td>app02</td><td>172.15.236.102</td><td>app02.cloud.rotoro.corp</td><td>venus</td><td>aphrodite</td>
         </tr>
         <tr>
-            <td>app03</td><td>172.15.236.103</td><td>app03.cloud.rotoro.corp</td><td>Джампхост для управления</td><td>moon</td><td>selena</td>
+            <td>Сервер приложений №3</td><td>app03</td><td>172.15.236.103</td><td>app03.cloud.rotoro.corp</td><td>earth</td><td>gaia</td>
         </tr>
         <tr>
-            <td>str01</td><td>172.15.236.10</td><td>str01.cloud.rotoro.corp</td><td>Джампхост для управления</td><td>moon</td><td>selena</td>
+            <td>Сервер хранения</td><td>str01</td><td>172.15.236.10</td><td>str01.cloud.rotoro.corp</td><td>jupiter</td><td>zeus</td>
         </tr>
         <tr>
-            <td>bu01</td><td>172.15.236.20</td><td>bu01.cloud.rotoro.corp</td><td>Джампхост для управления</td><td>moon</td><td>selena</td>
+            <td>Сервер резервного копирования</td><td>bu01</td><td>172.15.236.20</td><td>bu01.cloud.rotoro.corp</td><td>neptune</td><td>poseidon</td>
         </tr>
         <tr>
-            <td>cicd01</td><td>172.15.236.30</td><td>cicd01.cloud.rotoro.corp</td><td>Джампхост для управления</td><td>moon</td><td>selena</td>
+            <td>CI/CD сервер</td><td>cicd01</td><td>172.15.236.30</td><td>cicd01.cloud.rotoro.corp</td><td>uranus</td><td>celum</td>
         </tr>
         <tr>
-            <td>mail01</td><td>172.15.236.40</td><td>mail01.cloud.rotoro.corp</td><td>Джампхост для управления</td><td>moon</td><td>selena</td>
+            <td>Почтовый сервер</td><td>mail01</td><td>172.15.236.40</td><td>mail01.cloud.rotoro.corp</td><td>pluto</td><td>hades</td>
         </tr>
         <tr>
-            <td>mon01</td><td>172.15.236.50</td><td>mon01.cloud.rotoro.corp</td><td>Джампхост для управления</td><td>moon</td><td>selena</td>
+            <td>Сервер мониторинга</td><td>mon01</td><td>172.15.236.50</td><td>mon01.cloud.rotoro.corp</td><td>ceres</td><td>demeter</td>
         </tr>
     </tbody>
 </table>
