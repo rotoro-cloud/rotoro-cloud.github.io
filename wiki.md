@@ -5,12 +5,23 @@ permalink: /wiki/
 ---
 
 <style>
-table, th, td {
-    padding: 1px;
+table.mytable
+{
+    border-collapse: collapse;
+}
+
+table.mytable td
+{
+    padding: 5px;
+    border: 1px solid #AAA;
+}
+
+tr.head
+{
+    background: #EEE;
 }
 </style>
 
-<div class="bettertd">
 
 |Имя хоста|IP адрес|FQDN|Назначение|user|pass|
 |------------|------------|------------|------------|------------|------------|
@@ -26,7 +37,28 @@ table, th, td {
 |ml01|172.15.236.50|ml01.cloud.rotoro.corp|Почтовый сервер|pluto|hades|
 |mon01|172.15.236.60|mon01.cloud.rotoro.corp|Почтовый сервер|ceres|demeter|
 
-</div>
+
+
+<table class="mytable">
+    <tbody valign="middle">
+        <tr class="head">
+            <td>title</td>
+            <td>title</td>
+            <td>title</td>
+        </tr>
+        <tr>
+            <td>content</td>
+            <td>content</td>
+            <td>content</td>
+        </tr>
+        <tr>
+            <td>content</td>
+            <td>content</td>
+            <td>content</td>
+        </tr>
+    </tbody>
+</table>
+
 
 <table align="center">
   <tr><th align="center">Header A</th><th align="center">Header B</th><th align="center">Header C</th></tr>
