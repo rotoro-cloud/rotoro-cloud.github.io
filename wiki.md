@@ -5,7 +5,7 @@ permalink: /wiki/
 ---
 
 |Имя хоста|IP адрес|FQDN|Назначение|user|pass|
-|---|---|---|---|---|---|
+|------------|------------|------------|------------|------------|------------|
 |controller|Динамический|controller.cloud.rotoro.corp|Джампхост для управления|moon|selena|
 |db01|172.15.235.10|db01.cloud.rotoro.corp|Сервер базы данных|saturn|cronos|
 |lb01|172.15.237.10|lb01.cloud.rotoro.corp|Балансировщик нагрузки|mars|ares|
