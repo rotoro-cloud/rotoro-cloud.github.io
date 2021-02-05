@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Лабораторная №3 (Inventory), курс Ansible для самых маленьких
+title: Лабораторная №2 (Inventory), курс Ansible для самых маленьких
 ---
 
 
