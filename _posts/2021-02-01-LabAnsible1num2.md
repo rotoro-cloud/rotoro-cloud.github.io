@@ -10,7 +10,7 @@ title: Лабораторная №2 (Inventory), курс Ansible для сам
 
 <script>
     var scenario_div_name = '#rt_scenario';
-    var div_button_source_code = '<div id="start-lab-button" style="text-align: center; margin-top: 200px;"><a class="btn btn-md btn-primary" onclick="startLab()" ><img src="https://raw.githubusercontent.com/rotoro-cloud/rotoro-cloud.github.io/master/images/ansible1/lab2.png">Запуск упражнения</a><br><br><a href="https://rotoro.cloud/troubleshooting-labs" target="_blank">Если возникли проблемы, смотри здесь</a></div>';  
+    var div_button_source_code = '<div id="start-lab-button" style="text-align: center; margin-top: 10px;"><a class="btn btn-md btn-primary" onclick="startLab()" ><img src="https://raw.githubusercontent.com/rotoro-cloud/rotoro-cloud.github.io/master/images/ansible1/lab2.png">Запуск упражнения</a><br><br><a href="https://rotoro.cloud/troubleshooting-labs" target="_blank">Если возникли проблемы, смотри здесь</a></div>';  
     
     var startLab = function() {
         $('#start-lab-button').remove();
