@@ -14,7 +14,7 @@ permalink: /temp/
 <div>
     <div class="attachment-data"></div>
     
-      <div id="rt_scenario" name="ansible-universal" lab="quiz"></div>
+      <div id="rt_scenario" name="ansible-universal" lab="00010-find"></div>
     
 </div>
 
