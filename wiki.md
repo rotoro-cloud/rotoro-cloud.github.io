@@ -75,4 +75,4 @@ tr.head
 </table>
 
 
-<img src="images/infrasitucture.png">
+<img src="https://raw.githubusercontent.com/rotoro-cloud/rotoro-cloud.github.io/master/images/infrastructure.png">
