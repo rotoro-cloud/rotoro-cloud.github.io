@@ -75,3 +75,4 @@ tr.head
 </table>
 
 
+<img src="images/infrasitucture.png">
