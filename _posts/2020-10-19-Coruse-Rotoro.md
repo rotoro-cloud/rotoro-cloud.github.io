@@ -35,22 +35,7 @@ title: Лабораторная №1, курс Kubernetes для самых ма
             $(scenario_div_name).append(embed_script);
         }
     
-        
-        
-        $.post( window.location.pathname + "/complete", function() {
-          console.log("lecture completed")
-        })
-          .done(function() {
-            console.log("lecture done")
-          })
-          .fail(function() {
-            console.log("lecture complete failed")
-          })
-          .always(function() {
-            console.log("lecture complete finished")
-          });
-        
-        
+      
     }
     
     var div_button_source_code = '<div id="start-lab-button" style="text-align: center; margin-top: 200px;"><a class="btn btn-md btn-primary" onclick="startLab()" >Запуск упражнения</a><br><br><a href="https://rotoro.cloud/troubleshooting-labs" target="_blank">Если возникли проблемы, смотри здесь</a></div>';
