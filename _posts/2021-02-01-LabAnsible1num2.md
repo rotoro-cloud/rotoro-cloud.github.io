@@ -4,7 +4,7 @@ title: Лабораторная №2 (Inventory), курс Ansible для сам
 ---
 
 
-<div id="rt_scenario" image="ansible1/lab2.jpg" questions="ansible_inventory_lab"></div>
+<div id="rt_scenario" image="ansible1/lab2.png" questions="ansible_inventory_lab"></div>
 
 <script>
     var scenario_div_name = '#rt_scenario';
