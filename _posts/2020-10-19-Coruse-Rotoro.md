@@ -39,7 +39,7 @@ title: Лабораторная №1, курс Kubernetes для самых ма
       
     }
     
-    var div_button_source_code = '<div id="start-lab-button" style="text-align: center; margin-top: 200px;"><a class="btn btn-md btn-primary" onclick="startLab()" ><img src="https://raw.githubusercontent.com/rotoro-cloud/rotoro-cloud.github.io/master/images/KFB/lab01.jpg">Запуск упражнения</a><br><br><a href="https://rotoro.cloud/troubleshooting-labs" target="_blank">Если возникли проблемы, смотри здесь</a></div>';
+    var div_button_source_code = '<div id="start-lab-button" style="text-align: center; margin-top: 200px;"><img src="https://raw.githubusercontent.com/rotoro-cloud/rotoro-cloud.github.io/master/images/KFB/lab01.jpg"><a class="btn btn-md btn-primary" onclick="startLab()" >Запуск упражнения</a><br><br><a href="https://rotoro.cloud/troubleshooting-labs" target="_blank">Если возникли проблемы, смотри здесь</a></div>';
     
     $(scenario_div_name).append(div_button_source_code);  
 
