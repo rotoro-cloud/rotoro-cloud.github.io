@@ -25,7 +25,3 @@ title: Лабораторная №2 (Inventory), курс Ansible для сам
 </script>
 
 
-
-</div>
-
-
