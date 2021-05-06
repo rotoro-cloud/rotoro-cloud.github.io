@@ -3,7 +3,8 @@ layout: post
 title: Лабораторная №1, курс Kubernetes для самых маленьких
 ---
 <script src="/jquery.min.js"></script>
-
+<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0-alpha.4/css/bootstrap.min.css" integrity="2hfp1SzUoho7/TsGGGDaFdsuuDL0LX2hnUp6VkX3CUQ2K4K+xjboZdsXyp4oUHZj" crossorigin="anonymous">
+<script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0-alpha.4/js/bootstrap.min.js" integrity="VjEeINv9OSwtWFLAtmc4JCtEJXXBub00gtSnszmspDLCtC0I4z4nqz7rEFbIZLLU" crossorigin="anonymous"></script>
 
 <div>
     <div class="attachment-data"></div>
@@ -38,7 +39,7 @@ title: Лабораторная №1, курс Kubernetes для самых ма
       
     }
     
-    var div_button_source_code = '<div id="start-lab-button" style="text-align: center; margin-top: 200px;"><a class="btn btn-md btn-primary" onclick="startLab()" ><img src="https://raw.githubusercontent.com/rotoro-cloud/rotoro-cloud.github.io/master/images/KFB/lab01.jpg"> Запуск упражнения</a><br><br><a href="https://rotoro.cloud/troubleshooting-labs" target="_blank">Если возникли проблемы, смотри здесь</a></div>';
+    var div_button_source_code = '<div id="start-lab-button" style="text-align: center; margin-top: 200px;"><a class="btn btn-md btn-primary" onclick="startLab()" ><img src="https://raw.githubusercontent.com/rotoro-cloud/rotoro-cloud.github.io/master/images/KFB/lab01.jpg">Запуск упражнения</a><br><br><a href="https://rotoro.cloud/troubleshooting-labs" target="_blank">Если возникли проблемы, смотри здесь</a></div>';
     
     $(scenario_div_name).append(div_button_source_code);  
 
