@@ -17,17 +17,17 @@ avatar: https://raw.githubusercontent.com/rotoro-cloud/rotoro-cloud.github.io/ma
 # Includes an icon in the footer for each username you enter
 footer-links:
   dribbble:
-  email:
-  facebook:
+  email: rotoro.cloud@gmail.com
+  facebook: rotorocloud
   flickr:
-  github: barryclark/jekyll-now
+  github: rotoro-cloud
   instagram:
   linkedin:
   pinterest:
   rss: # just type anything here for a working RSS icon
   twitter: jekyllrb
   stackoverflow: # your stackoverflow profile, e.g. "users/50476/bart-kiers"
-  youtube: # channel/<your_long_string> or user/<user-name>
+  youtube: channel/UCAKBEk-i-irZSLWnhUfguwg
   googleplus: # anything in your profile username that comes after plus.google.com/
 
 
