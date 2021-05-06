@@ -3,7 +3,7 @@ layout: post
 title: Лабораторная №5 (Variables), курс Ansible для самых маленьких
 ---
 
-<div id="rt_scenario" image="ansible1/lab2.png" questions="ansible_variables_lab"></div>
+<div id="rt_scenario" image="ansible1/lab5.png" questions="ansible_variables_lab"></div>
 
 
 <script>
