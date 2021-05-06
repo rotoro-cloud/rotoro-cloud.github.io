@@ -4,7 +4,7 @@ title: Лабораторная №6 (Conditionals), курс Ansible для с�
 ---
 
 
-<div id="rt_scenario" image="ansible1/lab2.png" questions="ansible_conditionals_lab"></div>
+<div id="rt_scenario" image="ansible1/lab6.png" questions="ansible_conditionals_lab"></div>
 
 <script>
     var scenario_div_name = '#rt_scenario';
