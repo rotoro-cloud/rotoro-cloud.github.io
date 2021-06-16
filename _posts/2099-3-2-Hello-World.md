@@ -10,9 +10,9 @@ title: Бесплатные базовые курсы на Youtube-канале
     <h5 class="mt-0">Учи основы Kubernetes, Docker, Ansible</h5>
     <p>Курсы бесплатны и размещаются на нашем Youtube-канале.
     <ul>
-    <li> Ansible for absolute beginners with practice tests
-    <li> Docker for absolute beginners with practice tests
-    <li> Kubernetes for absolute beginners with practice tests
+    <li> Ansible for absolute beginners with practice tests </li>
+    <li> Docker for absolute beginners with practice tests </li>
+    <li> Kubernetes for absolute beginners with practice tests </li>
     </ul></p>
     <a href="https://www.youtube.com/channel/UCAKBEk-i-irZSLWnhUfguwg/playlists" class="stretched-link">Смотреть</a>
   </div>
